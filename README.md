@@ -34,5 +34,5 @@ Looking for an entry-level Data Analyst / Power BI Analyst role.
 ---
 
 ## 📫 Contact
-- LinkedIn: (paste your LinkedIn link)
-- Email: (paste your email)
+- LinkedIn: https://www.linkedin.com/in/santosh-kumar-062352384/
+- Email: rishabkumar71103@gmail.com
