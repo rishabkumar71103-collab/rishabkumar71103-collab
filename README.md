@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Santosh Kumar
 
-<!--
-**rishabkumar71103-collab/rishabkumar71103-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst | Power BI | SQL | Advanced Excel
 
-Here are some ideas to get you started:
+I am a Data Analyst fresher with hands-on experience in data analysis, dashboard development, and KPI reporting using Power BI, SQL Server, and Advanced Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Power BI (DAX, Power Query, Data Modeling)
+- SQL Server (JOINs, CTEs, Subqueries)
+- Advanced Excel (Dashboards, Power Query)
+- Data Cleaning & Data Analysis
+- Data Visualization & KPI Reporting
+
+---
+
+## 📂 Projects
+### Flipkart Sales Analytics Dashboard
+- Built interactive Power BI dashboards using e-commerce sales data
+- Cleaned and transformed data using SQL and Power Query
+- Created DAX measures for performance analysis
+
+### Retail Sales Dashboard
+- Designed sales dashboards using Power BI and Excel
+- Analyzed region-wise and product-wise performance
+- Generated actionable business insights
+
+---
+
+## 🎯 Career Objective
+Looking for an entry-level Data Analyst / Power BI Analyst role.
+
+---
+
+## 📫 Contact
+- LinkedIn: (paste your LinkedIn link)
+- Email: (paste your email)
